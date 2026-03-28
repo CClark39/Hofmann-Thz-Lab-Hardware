@@ -1,0 +1,3 @@
+This part holds the motor that spins the optical chopper.  
+It needs to account for the motor size, have space for the electrical engineering team to connect to the motor. 
+
